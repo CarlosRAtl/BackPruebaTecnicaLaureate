@@ -1,0 +1,6 @@
+@BackEndPruebaTecnicsLaureate_HostAddress = http://localhost:5189
+
+GET {{BackEndPruebaTecnicsLaureate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
